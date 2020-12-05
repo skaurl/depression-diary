@@ -3,7 +3,9 @@
 # 현재 구현 기능
 <div>
   <li>일기</li>
+  <img src="https://user-images.githubusercontent.com/55614265/101239705-1d538180-372d-11eb-87f3-ad32bc0e40a2.png">
   <li>비밀번호</li>
+  <img src="https://user-images.githubusercontent.com/55614265/101239703-1af12780-372d-11eb-9f28-4868e81356e9.png">
 </div>
 
 # 업데이트 예정
